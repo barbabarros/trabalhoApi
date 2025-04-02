@@ -1,0 +1,6 @@
+@templateMariaDb_HostAddress = http://localhost:5026
+
+GET {{templateMariaDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
