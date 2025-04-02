@@ -11,7 +11,7 @@ Este projeto é uma implementação de uma API Minimal utilizando ASP.NET Core e
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database=trabalho_api;User=usuario;Password=sua_senha;"
+    "MariaDbConnection": "Server=localhost;Database=trabalho_api;User=usuario;Password=sua_senha;"
   }
 }
 ```
